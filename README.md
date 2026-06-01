@@ -35,5 +35,5 @@ A time-series model forecasting 30-day future sales trends based on historical d
 ---
 
 ### Contact
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/abba-magaji-751847174?](#)
+- **Email:** nureyntheceo@gmail.com
